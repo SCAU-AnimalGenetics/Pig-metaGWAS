@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Pig-GWAS-meta-analysis
-=======
 # Analysis pipelines for meta-GWAS
 
 ## 1. Introduction
@@ -33,8 +30,6 @@ Pipeline components are public available in this repository and execution script
 
 http://dx.doi.org/10.1101/2023.10.09.561393
 
-The PigGTEx Consortium, xxx
+Zhiting Xu†, Qing Lin†, Xiaodian Cai†, Zhanming Zhong†, Jinyan Teng†, Bingjie Li, Haonan Zeng, Yahui Gao, Zexi Cai, Xiaoqing Wang, Liangyu Shi, Xue Wang, Yi Wang, Zipeng Zhang, Yu Lin, Shuli Liu, Hongwei Yin, Zhonghao Bai, Chen Wei, Jun Zhou, Wenjing Zhang, Xiaoke Zhang, Shaolei Shi, Jun Wu, Shuqi Diao, Yuqiang Liu, Xiangchun Pan, Xueyan Feng, Ruiqi Liu, Zhanqin Su, Chengjie Chang, Qianghui Zhu, Yuwei Wu, The PigGTEx Consortium, Zhongyin Zhou, Lijing Bai, Kui Li, Qishan Wang, Yuchun Pan, Zhong Xu, Xianwen Peng, Shuqi Mei, Delin Mo, Xiaohong Liu, Hao Zhang, Xiaolong Yuan, Yang Liu, George E. Liu, Guosheng Su, Goutam Sahana, Mogens Sandø Lund, Li Ma, Ruidong Xiang, Xia Shen, Pinghua Li, Ruihuang Huang, Maria Ballester, Daniel Crespo-Piazuelo, Marcel Amills, Alex Clop, Peter Karlskov-Mortensen, Merete Fredholm, Guoqing Tang, Mingzhou Li, Xuewei Li, Xiangdong Ding, Jiaqi Li, Yaosheng Chen, Qin Zhang, Yunxiang Zhao *, Fuping Zhao *, Lingzhao Fang *, Zhe Zhang *
 
 bioRxiv, 2023, DOI: [10.1101/2023.10.09.561393](http://dx.doi.org/10.1101/2023.10.09.561393)
->>>>>>> c84d846 (first commit)
-# Pig-meta-GWAS
